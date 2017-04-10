@@ -11,14 +11,21 @@
     "mockjs": "^1.0.1-beta3",
     "query-string": "^4.3.2",
     "react": "~15.4.1",
+    "react-addons-update": "^15.5.2",
     "react-native": "0.42.3",
+    "react-native-button": "^1.8.2",
+    "react-native-countdown": "0.0.3",
+    "react-native-sk-countdown": "^1.0.1",
     "react-native-vector-icons": "^4.0.0",
     "react-native-video": "^1.0.0"
   },
   "devDependencies": {
+    "babel-core": "^6.24.1",
     "babel-jest": "19.0.0",
     "babel-preset-react-native": "1.9.1",
+    "immutability-helper": "^2.1.2",
     "jest": "19.0.2",
+    "react-addons-css-transition-group": "^15.5.2",
     "react-test-renderer": "~15.4.1"
   },
   "jest": {
