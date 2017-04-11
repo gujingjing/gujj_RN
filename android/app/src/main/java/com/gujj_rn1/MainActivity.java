@@ -1,6 +1,7 @@
 package com.gujj_rn1;
 
 import com.facebook.react.ReactActivity;
+import com.imagepicker.ImagePickerPackage;
 import com.brentvatne.react.ReactVideoPackage;
 
 public class MainActivity extends ReactActivity {

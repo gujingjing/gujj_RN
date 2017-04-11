@@ -149,7 +149,7 @@ export default class Detail extends Component {
                         <Icon
                             onPress={this._back.bind(this)}
                             style={styles.header_back_icon}
-                            name='ios-arrow-left'
+                            name='user'
                             size={28}
                             color='#900'
                         />

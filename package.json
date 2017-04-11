@@ -15,9 +15,12 @@
     "react-native": "0.42.3",
     "react-native-button": "^1.8.2",
     "react-native-countdown": "0.0.3",
+    "react-native-image-picker": "^0.26.2",
+    "react-native-progress": "^3.2.0",
     "react-native-sk-countdown": "^1.0.1",
     "react-native-vector-icons": "^4.0.0",
-    "react-native-video": "^1.0.0"
+    "react-native-video": "^1.0.0",
+    "sha1": "^1.1.1"
   },
   "devDependencies": {
     "babel-core": "^6.24.1",

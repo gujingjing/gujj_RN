@@ -165,14 +165,16 @@ export default class gujj_RN1 extends Component {
                 <Icon.TabBarItem
                     iconName='ios-more-outline'
                     selectedIconName='ios-more'
-                    title="account"
+                    title='account'
                     selected={this.state.selectedTab === 'account'}
                     onPress={() => {
             this.setState({
               selectedTab: 'account'
             });
           }}>
-                    <Account />
+                    <Account
+                        user={this.state.user}
+                    />
 
                 </Icon.TabBarItem>
             </TabBarIOS>
